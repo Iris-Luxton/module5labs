@@ -1,0 +1,9 @@
+Assignment:
+Using what you learnt in module 5, recreate the social media services that
+you created in module 4, this time, on the server.
+
+Make sure to make a clean MVC Structure and use Swagger to test things out, and
+make a documentation that is easy to read and test
+
+Answer:
+I am doing this exercise in combination with miniproject 3 and create a social media service on server
